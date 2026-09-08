@@ -19,3 +19,8 @@ NPP = 0.28 & epsilon = 0.014
 
 NPP = 0.32 & epsilon = 0.007
 ![Alt text](Animations/Ecosystem_NPP_0.077_e_0.007.gif)
+
+# Contact
+Any questions can be sent to my email
+
+sylvain.hamers@gmail.com
